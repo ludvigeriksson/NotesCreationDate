@@ -1,0 +1,9 @@
+Package: com.ludvigeriksson.notescreationdate
+Name: NotesCreationDate
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: See the date notes were created
+Maintainer: Ludvig Eriksson
+Author: Ludvig Eriksson
+Section: Tweaks
